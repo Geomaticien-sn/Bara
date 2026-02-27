@@ -11,7 +11,7 @@ with st.sidebar:
 st.header("Mamadou Lamine FALL")
 
 st.subheader("A propos de moi")
-
+st.write("Étudiant en BTS Géomatique, sérieux, motivé et dynamique, disposant de solides compétences en cartographie, SIG et traitement de données spatiales. Passionné par la topographie, l’aménagement du territoire, l’agriculture et l’environnement.")
 st.header("FORMATION")
 
 st.subheader("Projets académiques")
@@ -38,4 +38,5 @@ st.subheader("Perspectives")
 st.write("Ambitionne de créer un cabinet d'expertise en Géomatique spécialisé dans L'Amenagement du territoire")
 st.write("Ambitionne de concevoir et d'administrer des bases de données spatiales (post gis) pour l'analyse de données geographiques")
 st.write("Specialiste SiG")
+
 
