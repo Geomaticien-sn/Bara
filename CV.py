@@ -2,7 +2,7 @@ import streamlit as st
 
 with st.sidebar:
      st.write("Prénom(s) et NOM")
-    st.write("Mamadou Lamine FALL")
+     st.write("Mamadou Lamine FALL")
     st.write("CONTACTS")
     st.write("Email: barafall5359@gmail.com")
     st.write("Tel: 783015263")
@@ -39,6 +39,7 @@ st.subheader("Perspectives")
 st.write("Ambitionne de créer un cabinet d'expertise en Géomatique spécialisé dans L'Amenagement du territoire")
 st.write("Ambitionne de concevoir et d'administrer des bases de données spatiales (post gis) pour l'analyse de données geographiques")
 st.write("Specialiste SiG")
+
 
 
 
