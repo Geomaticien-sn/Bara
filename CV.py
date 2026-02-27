@@ -1,7 +1,6 @@
 import streamlit as st
 
 with st.sidebar:
-    st.image("DIOP.jpeg")
     st.write("Papa Demba DIOP")
     st.write("CONTACTS")
     st.write("Email: dpapademba59@gmail.com")
@@ -41,6 +40,7 @@ st.subheader("Perspectives")
 st.write("Ambitionne de créer un cabinet d'expertise en Géomatique spécialisé dans L'Amenagement du territoire")
 st.write("Ambitionne de concevoir et d'administrer des bases de données spatiales (post gis) pour l'analyse de données geographiques")
 st.write("Specialiste SiG")
+
 
 
 
