@@ -12,10 +12,11 @@ with st.sidebar:
     st.write("2022-2025: Licence en Geographie")
     st.write("2025-2026:BTS en Geomatique")
 
-st.header("Technicien supérieur en Geomatique")
+st.header("Mamadou Lamine FALL")
 
 st.subheader("A propos de moi")
-st.write("Passionné par la Geographie, la Géomatique et la Cartographie, je suis une personne rigoureuse dotée d'une capacité de travailler en equipe pour mener à bien des projets")
+st.write("Étudiant en BTS Géomatique, sérieux, motivé et dynamique, disposant de solides compétences en cartographie, SIG et traitement de données spatiales. Passionné par la topographie, l’aménagement du territoire, l’agriculture et l’environnement.
+")
 
 st.subheader("Projets académiques")
 st.write("Programmation: Réalisation d'un CV digital sur Steamlit")
@@ -41,5 +42,6 @@ st.subheader("Perspectives")
 st.write("Ambitionne de créer un cabinet d'expertise en Géomatique spécialisé dans L'Amenagement du territoire")
 st.write("Ambitionne de concevoir et d'administrer des bases de données spatiales (post gis) pour l'analyse de données geographiques")
 st.write("Specialiste SiG")
+
 
 
