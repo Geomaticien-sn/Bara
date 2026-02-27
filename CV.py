@@ -1,19 +1,21 @@
 import streamlit as st
 
 with st.sidebar:
-     st.write("Prénom(s) et NOM")
-     st.write("Mamadou Lamine FALL")
-     st.write("CONTACTS")
-     st.write("Email: barafall5359@gmail.com")
-     st.write("Tel: 783015263")
-     st.write("Adresse: Cambérène,rue 192")
+    st.image("DIOP.jpeg")
+    st.write("Papa Demba DIOP")
+    st.write("CONTACTS")
+    st.write("Email: dpapademba59@gmail.com")
+    st.write("Tel: 78147739")
+    st.write("Adresse: Medina,rue 06")
+    st.write("FORMATIONS")
+    st.write("2021-2022: BAC L2")
+    st.write("2022-2025: Licence en Geographie")
+    st.write("2025-2026:BTS en Geomatique")
 
-st.header("Mamadou Lamine FALL")
+st.header("Technicien supérieur en Geomatique")
 
 st.subheader("A propos de moi")
-st.write("Étudiant en BTS Géomatique, sérieux, motivé et dynamique, disposant de solides compétences en cartographie, SIG et traitement de données spatiales. Passionné par la topographie, l’aménagement du territoire, l’agriculture et l’environnement.
-")
-st.header("FORMATION")
+st.write("Passionné par la Geographie, la Géomatique et la Cartographie, je suis une personne rigoureuse dotée d'une capacité de travailler en equipe pour mener à bien des projets")
 
 st.subheader("Projets académiques")
 st.write("Programmation: Réalisation d'un CV digital sur Steamlit")
@@ -39,6 +41,8 @@ st.subheader("Perspectives")
 st.write("Ambitionne de créer un cabinet d'expertise en Géomatique spécialisé dans L'Amenagement du territoire")
 st.write("Ambitionne de concevoir et d'administrer des bases de données spatiales (post gis) pour l'analyse de données geographiques")
 st.write("Specialiste SiG")
+
+
 
 
 
